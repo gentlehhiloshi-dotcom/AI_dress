@@ -136,7 +136,11 @@ python main.py
 - `.env` 文件包含本地路径信息，已加入 `.gitignore`，请勿上传至 GitHub
 - 生成图片保存在 `generated_images/` 目录，临时上传文件在任务完成后自动清理
 - 支持的图片格式：JPG / PNG / WebP，单张图片大小不超过 10MB
+<<<<<<< HEAD
 - 更换 ComfyUI 工作流时，需同步修改 `app/config/settings.py` 中的 `PERSON_IMAGE_NODE_ID` 和 `CLOTHES_IMAGE_NODE_ID`，节点 ID 可在工作流的 API 格式 JSON 中查找
+=======
+
+>>>>>>> 
 ---
 
 ## 后续计划
