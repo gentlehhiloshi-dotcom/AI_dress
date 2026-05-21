@@ -94,7 +94,7 @@ STATIC_DIR=./static
 | 模型 | 存放目录 | 下载地址 |
 |---|---|---|
 | `flux-2-klein-4b.safetensors` | `ComfyUI/models/unet/` | [下载](https://huggingface.co/black-forest-labs/FLUX.2-klein-4B/resolve/main/flux-2-klein-4b.safetensors?download=true) |
-| `qwen_3_4b.safetensors` | `ComfyUI/models/text_encoders/` | [下载](https://huggingface.co/Comfy-Org/z_image_turbo/resolve/main/split_files/text_encoders/qwen_3_4b.safetensors?download=true) |
+| `qwen_3_4b.safetensors` | `ComfyUI/models/clip/` | [下载](https://huggingface.co/Comfy-Org/z_image_turbo/resolve/main/split_files/text_encoders/qwen_3_4b.safetensors?download=true) |
 | `flux2-vae.safetensors` | `ComfyUI/models/vae/` | [下载](https://huggingface.co/Comfy-Org/flux2-dev/resolve/main/split_files/vae/flux2-vae.safetensors?download=true) |
 
 **6. 导入工作流**
